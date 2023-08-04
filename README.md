@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Hello! Welcome to my corner of GitHub, where coding meets storytelling magic. 🌌 I've been coding for 3 years like a pro, and then I took a detour to earn a master's degree! In my first 3 years, I honed my coding skills, untangling complexities and crafting solutions like a seasoned explorer. 💻🌟 But the story doesn't end there – I also embraced the world of academia, earning a master's degree. But wait, there's more – I also love books and creating stories! 📖✨ Imagine this: by day, I'm a coding champ; by night, a master of stories. 🌙🎨 It's like having two superpowers! As we explore both the tech universe and the land of tales, join me in celebrating the joy of learning and creating. 🚀 Whether it's fixing errors or inventing characters, every moment is an adventure. So, here's to 3 years of coding adventures, mixed with the enchantment of storytelling. May your code be bug-free, your stories be captivating, and your journey be as fun as mine! 🌈🔍
+Hello! Welcome to my corner of GitHub, where coding meets storytelling magic. 🌌 I've been coding for 3 years like a pro, and then I took a detour to earn a master's degree! 
+
+In my first 3 years, I honed my coding skills, untangling complexities and crafting solutions like a seasoned explorer. 💻🌟 But the story doesn't end there – I also embraced the world of academia, earning a master's degree. But wait, there's more – I also love books and creating stories! 📖✨ 
+
+Imagine this: by day, I'm a coding champ; by night, a master of stories. 🌙🎨 It's like having two superpowers! 
+
+As we explore both the tech universe and the land of tales, join me in celebrating the joy of learning and creating. 🚀 Whether it's fixing errors or inventing characters, every moment is an adventure. 
+
+So, here's to 3 years of coding adventures, mixed with the enchantment of storytelling. May your code be bug-free, your stories be captivating, and your journey be as fun as mine! 🌈🔍
 
 * 🌍  I'm based in Arlington,TX
 * 🖥️  See my portfolio at [Sravya's-Portfolio](http://sravya-portfolio.netlify.app/)
